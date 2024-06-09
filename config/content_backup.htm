@@ -127,6 +127,9 @@
 </div>
 </div>
 </div>
+<h1><span><span>w13</span></span></h1>
+<p><span><span>1.<a href="https://mde.tw/wcm2024/downloads/guess_game.7z">guess_game.7z</a> 是在 AI 輔助下, 將簡單的單人 <a href="https://mde.tw/wcm2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/aaced903b90465ed1718edb68e3d10a6/raw/cfce17938843e1f9a9be75d0cf2c2dee7c702291/guess_game.py">Brython 線上猜數字遊戲</a> 轉化為可以多人同場比賽猜數字的線上遊戲.</span></span></p>
+<p><span><span>2.由於使用 Flask, 直接啟動模式僅用於程式開發, 若要部署在 Windows 或 Linux 電腦上, 還需進行下列考量</span></span></p>
 <h1><span><span>個人重點整理</span></span></h1>
 <p><span><span></span></span><span><span>1.網站<a href="https://mde.tw/">https://mde.tw/</a></span></span></p>
 <p><span><span>2.密碼:kmolab</span></span></p>
@@ -248,9 +251,17 @@ if __name__ == "__main__":
 <p>5.再建立一個名稱叫 "rock_paper_scissors.py"的程式庫讓程式可以正常運作</p>
 <p>6.以下為影片連結</p>
 <p><iframe allowfullscreen="allowfullscreen" height="1067" src="//www.youtube.com/embed/1YqDXv6QgGs" width="800"></iframe></p>
+<p>7.解釋程式</p>
+<p>A:</p>
 <p></p>
-<p></p>
-<p></p>
+<ul>
+<li><code>get_user_choice()</code>: 獲取玩家的選擇並確保輸入有效。</li>
+<li><code>get_computer_choice()</code>: 隨機生成電腦的選擇。</li>
+<li><code>determine_winner()</code>: 根據玩家和電腦的選擇決定勝負。</li>
+<li><code>play_game()</code>: 執行一輪遊戲，並顯示結果。</li>
+<li><code>main</code> 程序循環：允許玩家多次進行遊戲，直到選擇退出。</li>
+</ul>
+<p>B:<br/>       按下 <code>F5</code> 或選擇 <code>Run -&gt; Start Debugging(建立終端機)</code> 來執行程式。</p>
 <h1>cmsimde</h1>
 <p><span style="background-color: #ccffcc;">SMap</span> - SiteMap - 依照階次列出網站的所有頁面.</p>
 <p><span style="background-color: #ccffcc;">EditA</span> - Edit All page - 將所有頁面放入編輯模式中, 主要用來處理頁面搬遷, 刪除或決定衝突頁面內容版本.</p>
