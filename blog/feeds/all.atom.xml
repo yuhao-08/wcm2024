@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T07:27:33+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-14T14:47:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T07:29:53+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-14T14:47:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -350,9 +350,9 @@ Hostname github.com&lt;/p&gt;</content><category term="w4"></category><category 
 &lt;p&gt;②協作合作: 多人協作時，Git 提供了分支和合併的功能，可以讓團隊成員在不干擾彼此的情況下並行工作。&lt;/p&gt;
 &lt;p&gt;③備份與同步: 使用Git 可以輕鬆地將檔案備份到遠端倉庫，並確保資料的安全性和可靠性。&lt;/p&gt;
 &lt;p&gt;④程式碼審查與回饋: Git 提供了程式碼審查工具，團隊成員可以透過提交程式碼並要求審查來進行程式碼品質控制&lt;/p&gt;
-&lt;p&gt;⑤專案管理: Git 倉庫可以與專案管理工具（如Jira、Trello等）集成，幫助團隊追蹤任務、問題和進度，提高專案管 理的效率和透明度。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>小遊戲設計</title><link href="./%E5%B0%8F%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T07:27:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./小遊戲設計.html</id><summary type="html">&lt;h2&gt;小遊戲設計&lt;/h2&gt;
-&lt;p&gt;1.先利用Chat GPT問程式
-2程式碼如下:
+&lt;p&gt;⑤專案管理: Git 倉庫可以與專案管理工具（如Jira、Trello等）集成，幫助團隊追蹤任務、問題和進度，提高專案管 理的效率和透明度。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>小遊戲設計</title><link href="./%E5%B0%8F%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T07:29:53+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./小遊戲設計.html</id><summary type="html">&lt;h2&gt;小遊戲設計&lt;/h2&gt;
+&lt;p&gt;1.先利用Chat GPT問程式&lt;/p&gt;
+&lt;p&gt;2程式碼如下:
 import random&lt;/p&gt;
 &lt;p&gt;def get_user_choice():
     choices = ['剪刀', '石頭', '布']
@@ -362,8 +362,8 @@ import random&lt;/p&gt;
             return user_choice
         else:
             print("無效的選 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;小遊戲設計&lt;/h2&gt;
-&lt;p&gt;1.先利用Chat GPT問程式
-2程式碼如下:
+&lt;p&gt;1.先利用Chat GPT問程式&lt;/p&gt;
+&lt;p&gt;2程式碼如下:
 import random&lt;/p&gt;
 &lt;p&gt;def get_user_choice():
     choices = ['剪刀', '石頭', '布']
@@ -398,13 +398,13 @@ import random&lt;/p&gt;
         play_again = input("你想再玩一次嗎？（輸入 'y' 繼續，其他鍵退出）：")
         if play_again.lower() != 'y':
             break
-    print("遊戲結束！感謝你的參與。")
-3.下載VS CODE&lt;/p&gt;
+    print("遊戲結束！感謝你的參與。")&lt;/p&gt;
+&lt;p&gt;3.下載VS CODE&lt;/p&gt;
 &lt;p&gt;4.建立一個新的資料夾到桌面上&lt;/p&gt;
 &lt;p&gt;5.再建立一個名稱叫 "rock_paper_scissors.py"的程式庫讓程式可以正常運作&lt;/p&gt;
 &lt;p&gt;6.以下為影片連結
-https://youtu.be/1YqDXv6QgGs
-7.解釋程式&lt;/p&gt;
+https://youtu.be/1YqDXv6QgGs&lt;/p&gt;
+&lt;p&gt;7.解釋程式&lt;/p&gt;
 &lt;p&gt;A:&lt;/p&gt;
 &lt;p&gt;get_user_choice(): 獲取玩家的選擇並確保輸入有效。
 get_computer_choice(): 隨機生成電腦的選擇。
