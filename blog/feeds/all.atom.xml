@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T07:19:41+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-14T14:47:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T07:22:42+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-14T14:47:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -350,4 +350,59 @@ Hostname github.com&lt;/p&gt;</content><category term="w4"></category><category 
 &lt;p&gt;②協作合作: 多人協作時，Git 提供了分支和合併的功能，可以讓團隊成員在不干擾彼此的情況下並行工作。&lt;/p&gt;
 &lt;p&gt;③備份與同步: 使用Git 可以輕鬆地將檔案備份到遠端倉庫，並確保資料的安全性和可靠性。&lt;/p&gt;
 &lt;p&gt;④程式碼審查與回饋: Git 提供了程式碼審查工具，團隊成員可以透過提交程式碼並要求審查來進行程式碼品質控制&lt;/p&gt;
-&lt;p&gt;⑤專案管理: Git 倉庫可以與專案管理工具（如Jira、Trello等）集成，幫助團隊追蹤任務、問題和進度，提高專案管 理的效率和透明度。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;⑤專案管理: Git 倉庫可以與專案管理工具（如Jira、Trello等）集成，幫助團隊追蹤任務、問題和進度，提高專案管 理的效率和透明度。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>期中課程整理</title><link href="./%E6%9C%9F%E4%B8%AD%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T07:22:42+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./期中課程整理.html</id><summary type="html">&lt;p&gt;## 大綱
+1.網際內容管理課程的英文名稱為 Web-based Content Management&lt;/p&gt;
+&lt;p&gt;2.網際內容管理課程將網頁內容管理系統與網頁資料放在同一個倉儲 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;## 大綱
+1.網際內容管理課程的英文名稱為 Web-based Content Management&lt;/p&gt;
+&lt;p&gt;2.網際內容管理課程將網頁內容管理系統與網頁資料放在同一個倉儲中, 且讓使用者寄存在 Github 中, 只要能夠執行 Python 的雲端或近端環境都能開啟網頁編輯程式進行改版。&lt;/p&gt;
+&lt;h2&gt;網頁上的 IDE&lt;/h2&gt;
+&lt;p&gt;1.網頁上的 IDE（集成開發環境）是一種在網頁瀏覽器中運行的開發工具，通常用於網頁開發或輕量級的程式開發。這些工具提供了一個集成的開發環境，包括編輯器、語法高亮顯示、自動完成、調試器和版本控制等功能。&lt;/p&gt;
+&lt;p&gt;2.Replit、Codespaces 和 Gitpod 都是強大的在線開發環境，可以用來開發各種類型的程式，包括但不限於網頁、應用軟件、遊戲、數據科學和機器學習等。&lt;/p&gt;
+&lt;h2&gt;AI 工具&lt;/h2&gt;
+&lt;p&gt;1.AI 工具通過其強大的數據分析和模式識別能力，為我們提供了許多解決問題的新途徑，並在各個領域產生了深遠的影響。&lt;/p&gt;
+&lt;p&gt;自然語言處理：NLP 技術使得我們可以從大量的文本數據中提取信息、理解語義、進行情感分析等。這有助於搜索引擎優化、情感分析、智能客服等方面的應用。&lt;/p&gt;
+&lt;p&gt;計算機視覺：CV 技術使得計算機能夠理解和解讀圖像和視頻。這有助於圖像識別、人臉識別、自動駕駛、醫學影像分析等應用。&lt;/p&gt;
+&lt;p&gt;機器學習和深度學習：機器學習和深度學習技術被廣泛應用於預測分析、推薦系統、金融風險管理、健康監測、自然資源管理等方面。&lt;/p&gt;
+&lt;p&gt;自動化和智能助手：AI 工具使得我們可以開發自動化系統和智能助手，幫助我們自動處理瑣碎任務、提高工作效率，例如智能家居系統、智能辦公軟件等。&lt;/p&gt;
+&lt;p&gt;健康醫療：AI 工具在醫學領域中的應用包括疾病診斷、藥物研發、醫學影像分析、個性化治療等，有助於提高醫療服務的質量和效率。&lt;/p&gt;
+&lt;p&gt;2.總的來說，AI 工具通過其強大的數據分析和模式識別能力，為我們提供了許多解決問題的新途徑，並在各個領域產生了深遠的影響。&lt;/p&gt;
+&lt;h2&gt;實作練習問題&lt;/h2&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;p&gt;打開Excel 2016。
+依序點選「資料」 -&amp;gt; 「自文字/CSV」。
+在彈出的檔案選擇對話框中，選擇你的.csv 檔案（例如: 5j_wcm2024_midterm.csv）。
+Excel 會自動啟動「文字匯入精靈」。在嚮導中：
+在第一個視窗中，確保「檔案起始行」是1，然後點選「下一步」。
+在第二個視窗中，將檔案原始資料類型設為“分隔符號”，然後點選“下一步”。
+在第三個視窗中，選擇合適的分隔符號（通常是逗號或製表符），然後點擊「下一步」。
+在最後一個視窗中，點擊“高級”按鈕。
+在彈出的“高級文字導入設定”對話框中，將“文件原始編碼”改為“65001: Unicode (UTF-8)”，然後點擊“確定”。
+點選「完成」按鈕，Excel 會正確地匯入並顯示CSV 檔案內容。
+7.wcm2024 課程中曾經提到可以利用舊的可攜 Python 程式環境建立新的 Python 可攜程式環境, 但該如何進行?&lt;/p&gt;
+&lt;p&gt;要建立新的可攜式 Python 程式環境，你可以遵循這些步驟：&lt;/p&gt;
+&lt;p&gt;1.下載新的可攜式 Python 發行版，例如 Anaconda 或 Miniconda。
+2. 解壓縮下載的檔案到你想要的目錄。
+3. 如果你想要將舊的程式庫和設定複製到新的環境，你可以執行以下步驟：
+- 在舊的環境中使用 pip freeze &amp;gt; requirements.txt 命令將所有安裝的套件列在一個文件中。
+- 將該文件複製到新的環境。
+- 在新的環境中使用 pip install -r requirements.txt 命令安裝所有套件。
+4. 如果你想要完全複製舊的環境，包括 Python 版本和所有套件，你可以嘗試將整個舊的程式目錄複製到新的位置。&lt;/p&gt;
+&lt;p&gt;這些步驟應該能幫助你建立一個新的可攜式 Python 程式環境。&lt;/p&gt;
+&lt;p&gt;8.建立一個掃地機器人的工作模擬系統需要以下步驟：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;了解 Brython：Brython 是一個將 Python 代碼直譯成 JavaScript 的工具，可以讓你在網頁中運行 Python 代碼。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;編寫掃地機器人的模擬程式：使用 Python 編寫模擬掃地機器人的程式碼，包括控制機器人移動、偵測障礙物、清潔地板等功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建立網頁：在 HTML 中嵌入 Brython，以便在網頁中執行 Python 代碼。你需要將 Brython 的相關檔案引入到你的 HTML 文件中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;將 Python 代碼嵌入到網頁中：在網頁中添加你編寫的 Python 代碼，並使用 Brython 來執行這些代碼。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;設計控制介面：在網頁中添加控制掃地機器人的介面，例如按鈕來啟動/停止機器人、調整機器人的速度等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="期中課程整理"></category><category term="網誌編寫"></category></entry></feed>
