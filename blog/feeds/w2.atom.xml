@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T07:07:59+08:00</updated><entry><title>w2心得</title><link href="./w2%E5%BF%83%E5%BE%97.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-15T07:07:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./w2心得.html</id><content type="html">&lt;h2&gt;w2&lt;/h2&gt;
+&lt;p&gt;1.主要是利用Codespaces維護網站，每天平均僅能使用兩個小時。&lt;/p&gt;
+&lt;p&gt;2.採用 Github Codespaces 維護網站的好處是介面提供多終端機與多 ports 開啟功能。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry></feed>
