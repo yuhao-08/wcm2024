@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w13</title><link href="./" rel="alternate"></link><link href="./feeds/w13.atom.xml" rel="self"></link><id>./</id><updated>2024-06-18T14:22:15+08:00</updated><entry><title>w13課程整理</title><link href="./w13%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86.html" rel="alternate"></link><published>2024-02-18T10:30:00+08:00</published><updated>2024-06-18T14:22:15+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./w13課程整理.html</id><summary type="html">&lt;h2&gt;w13&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w13</title><link href="./" rel="alternate"></link><link href="./feeds/w13.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T01:52:56+08:00</updated><entry><title>w13課程整理</title><link href="./w13%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86.html" rel="alternate"></link><published>2024-02-18T10:30:00+08:00</published><updated>2024-06-20T01:52:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./w13課程整理.html</id><summary type="html">&lt;h2&gt;w13&lt;/h2&gt;
 &lt;p&gt;1.guess_game.7z 是在 AI 輔助下, 將簡單的單人 Brython 線上猜數字遊戲 轉化為可以多人同場比賽猜數字的線上遊戲.&lt;/p&gt;
 &lt;p&gt;2.由於使用 Flask, 直 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;w13&lt;/h2&gt;
 &lt;p&gt;1.guess_game.7z 是在 AI 輔助下, 將簡單的單人 Brython 線上猜數字遊戲 轉化為可以多人同場比賽猜數字的線上遊戲.&lt;/p&gt;
-&lt;p&gt;2.由於使用 Flask, 直接啟動模式僅用於程式開發, 若要部署在 Windows 或 Linux 電腦上, 還需進行下列考量&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;2.由於使用 Flask, 直接啟動模式僅用於程式開發, 若要部署在 Windows 或 Linux 電腦上, 還需進行下列考量
+  2-1具有管理者模式, 可以重新啟動伺服器.
+  2-2可讓參賽者經由 Github、Gmail 或其他支援 Oauth2 登入協定的帳號登入.
+  2-3加入資料庫, 儲存參賽者的得分資料、歷史紀錄並提供排行榜等功能.
+  2-4加入其他可多人線上參與競技或進行同步對話功能, 或納入其他專業相關的協同設計功能.&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry></feed>
